@@ -1,0 +1,7 @@
+C:\Users\ghasa\source\repos\Sql_Fast\bin\Debug\Sql_Fast.exe.config
+C:\Users\ghasa\source\repos\Sql_Fast\bin\Debug\Sql_Fast.exe
+C:\Users\ghasa\source\repos\Sql_Fast\bin\Debug\Sql_Fast.pdb
+C:\Users\ghasa\source\repos\Sql_Fast\obj\Debug\Sql_Fast.csproj.AssemblyReference.cache
+C:\Users\ghasa\source\repos\Sql_Fast\obj\Debug\Sql_Fast.csproj.CoreCompileInputs.cache
+C:\Users\ghasa\source\repos\Sql_Fast\obj\Debug\Sql_Fast.exe
+C:\Users\ghasa\source\repos\Sql_Fast\obj\Debug\Sql_Fast.pdb

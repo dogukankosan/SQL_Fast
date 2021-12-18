@@ -1,0 +1,1 @@
+Data Source=DOGUKAN\SQLEXPRESS;Initial Catalog=ETA_MASTERV8;Integrated Security=True;Connect Timeout=30
